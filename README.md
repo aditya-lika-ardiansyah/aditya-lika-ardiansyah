@@ -1,5 +1,14 @@
 <h2 align="left">Hi 👋! My name is Aditya Lika Ardiansyah and I'm a Frontend Developer, from Indonesia</h2>
 
+## 📌 All My Favourite
+
+- 🎬 Favourite Movies `Oppenheimer`,`Sniper: The White Raven` and `Rambo`.
+   - Favourite Movies Genre `War` and `Action`.
+- 📺 Favourite Series `Reacher` and `The 100`.
+- 🎵 Favourite Songs `Angin Kencang` and `Aruarian Dance`.
+
+
+
 ## ✨ Activity
 
 <br clear="both">
