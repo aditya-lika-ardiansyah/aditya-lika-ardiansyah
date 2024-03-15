@@ -4,7 +4,7 @@
 
 - 🎬 Movies, `Sisu`,`Sniper: The White Raven` and `Rambo`.
    - Movies Genre, `War` and `Action`.
-- 📺 Series, `Reacher` and `The 100`.
+- 📺 Series, `Reacher`,`The 100`,`Money Heist`,`Narcos Mexico` and `Narcos`.
 - 🎵 Songs, `Angin Kencang` and `Aruarian Dance`.
   - Songs Genre, `Pop` and `LoFi`.
 - ⚽ Player, `Cristiano Ronaldo 🐐`
