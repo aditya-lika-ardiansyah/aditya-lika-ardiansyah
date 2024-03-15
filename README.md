@@ -49,9 +49,7 @@
 <br clear="both">
 
 <p align="left">Spotify Activity</p>
-
 ###
-
 <br clear="both">
 
 <div align="center">
