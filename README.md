@@ -6,7 +6,7 @@
    - Movies Genre, `War` and `Action`.
 - 📺 Series, `Reacher` and `The 100`.
 - 🎵 Songs, `Angin Kencang` and `Aruarian Dance`.
- - Songs Genre, `Pop` and `LoFi`.
+  - Songs Genre, `Pop` and `LoFi`.
 - ⚽ Player, `Cristiano Ronaldo 🐐`
 - ⚽ Club, `Real Madrid 👑`
 
