@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditya Lika Ardiansyah and I'm a Frontend Developer, from Indomesia</h2>
+<h2 align="left">Hi 👋! My name is Aditya Lika Ardiansyah and I'm a Frontend Developer, from Indonesia</h2>
 
 ###
 
@@ -49,7 +49,9 @@
 <br clear="both">
 
 <p align="left">Spotify Activity</p>
+
 ###
+
 <br clear="both">
 
 <div align="center">
@@ -60,7 +62,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31xz33nt746jc77kkrrmmpvmoa7y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xz33nt746jc77kkrrmmpvmoa7y&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xz33nt746jc77kkrrmmpvmoa7y&count=10" alt="Spotify recently played"  />
   </a>
 </div>
 
