@@ -2,11 +2,13 @@
 
 ## 📌 All My Favourite
 
-- 🎬 Favourite Movies `Oppenheimer`,`Sniper: The White Raven` and `Rambo`.
-   - Favourite Movies Genre `War` and `Action`.
-- 📺 Favourite Series `Reacher` and `The 100`.
-- 🎵 Favourite Songs `Angin Kencang` and `Aruarian Dance`.
-
+- 🎬 Movies, `Oppenheimer`,`Sniper: The White Raven` and `Rambo`.
+   - Movies Genre, `War` and `Action`.
+- 📺 Series, `Reacher` and `The 100`.
+- 🎵 Songs, `Angin Kencang` and `Aruarian Dance`.
+ - Songs Genre, `Pop` and `LoFi`.
+- ⚽ Player, `Cristiano Ronaldo 🐐`
+- ⚽ Club, `Real Madrid 👑`
 
 
 ## ✨ Activity
