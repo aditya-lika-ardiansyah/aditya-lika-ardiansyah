@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Aditya Lika Ardiansyah and I'm a Frontend Developer, from Indonesia</h2>
 
-## ♥️ Activity
+## ✨ Activity
 
 <br clear="both">
 
@@ -10,13 +10,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Lika-Ardiansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 👁️ Profile visitor
+## 👁️ Profile Visitor
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Aditya-Lika-Ardiansyah/count.svg?"  />
 </div>
 
-## 🤓 Still learn 
+## 🤓 Still Learn 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
