@@ -2,7 +2,7 @@
 
 ## 📌 All My Favourite
 
-- 🎬 Movies, `Oppenheimer`,`Sniper: The White Raven` and `Rambo`.
+- 🎬 Movies, `Sisu`,`Sniper: The White Raven` and `Rambo`.
    - Movies Genre, `War` and `Action`.
 - 📺 Series, `Reacher` and `The 100`.
 - 🎵 Songs, `Angin Kencang` and `Aruarian Dance`.
