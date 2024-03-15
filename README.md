@@ -44,21 +44,12 @@
 
 <img src="https://raw.githubusercontent.com/Aditya-Lika-Ardiansyah/Aditya-Lika-Ardiansyah/output/snake.svg" alt="Snake animation" />
 
-###
+## 🎼 Spotify Section!
 
 <br clear="both">
-
-<p align="left">Spotify Activity</p>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://spotify-recently-zeta.vercel.app/api?theme=dark&rainbow=true"  />
 </div>
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31xz33nt746jc77kkrrmmpvmoa7y">
