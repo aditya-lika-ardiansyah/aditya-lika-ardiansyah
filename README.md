@@ -59,6 +59,7 @@
 
 <br clear="both">
 <div align="center">
+   <a href="#">
   <img src="https://spotify-recently-zeta.vercel.app/api?theme=dark&rainbow=true" alt="Spotify currently played"/>
 </div>
 
