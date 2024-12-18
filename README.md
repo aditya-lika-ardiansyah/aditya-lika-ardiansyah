@@ -59,7 +59,7 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://spotify-recently-zeta.vercel.app/api?theme=dark&rainbow=true"  />
+  <img src="https://spotify-recently-zeta.vercel.app/api?theme=dark&rainbow=true&scan=true"  />
 </div>
 
 <div align="center">
