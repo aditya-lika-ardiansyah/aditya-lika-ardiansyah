@@ -59,12 +59,12 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://spotify-recently-zeta.vercel.app/api?theme=dark&rainbow=true"  />
+  <img src="https://spotify-recently-zeta.vercel.app/api?theme=dark&rainbow=true" alt="Spotify currently played"/>
 </div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31xz33nt746jc77kkrrmmpvmoa7y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xz33nt746jc77kkrrmmpvmoa7y&count=10" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xz33nt746jc77kkrrmmpvmoa7y&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
