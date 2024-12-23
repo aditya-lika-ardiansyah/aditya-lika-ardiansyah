@@ -1,7 +1,6 @@
 import requests
-import os
 
-url = os.getenv(${{ secrets.JU }})
+url = "https://ia801502.us.archive.org/17/items/Arc.BiHU.0x/0x/0x/JSON/history-watch.json"
 response = requests.get(url)
 data = response.json()
 
