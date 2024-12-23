@@ -1,4 +1,5 @@
 import requests
+import os
 
 url = "os.getenv('JU')"
 response = requests.get(url)
