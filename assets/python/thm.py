@@ -1,6 +1,6 @@
 import requests
 
-url = "${{ secrets.JU }}"
+url = "os.getenv('JU')"
 response = requests.get(url)
 data = response.json()
 
