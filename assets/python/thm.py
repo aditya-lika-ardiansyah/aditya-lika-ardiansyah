@@ -96,7 +96,7 @@ svg_content += '''
 </svg>
 '''
 
-with open("profile.svg", "w") as file:
+with open("thm.svg", "w") as file:
     file.write(svg_content)
 
 print("SVGs have been created and saved as thm.svg.")
