@@ -56,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/Aditya-Lika-Ardiansyah/Aditya-Lika-Ardiansyah/output/snake.svg" alt="Snake animation" />
 
 ## 🎬 Cinephil Stuff
-<img style="display: block;
+<img href="https://trakt.tv/users/adityazu" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width: 100%;" src="assets/svg/trakt.svg " alt="trakt">
