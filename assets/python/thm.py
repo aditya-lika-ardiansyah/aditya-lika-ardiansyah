@@ -1,7 +1,7 @@
 import requests
 import os
 
-url = "os.getenv('JU')"
+url = os.getenv('JU')
 response = requests.get(url)
 data = response.json()
 
