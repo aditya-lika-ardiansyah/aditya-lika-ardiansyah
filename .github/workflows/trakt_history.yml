@@ -27,11 +27,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         python -m pip install requests
+      env:
+          JU: ${{ secrets.JU }}
 
     - name: Generate SVG
       run: python assets/python/thm.py
-      env:
-          JU: ${{ secrets.JU }}
+      
 
     - name: Commit and Push SVG
       run: |
