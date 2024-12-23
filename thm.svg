@@ -1,1 +1,109 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="940">
+  <foreignObject width="800" height="940">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+      <style>
+        /* CSS Reset */
+        html, body, div, span, h1, p { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
+        /* Container Style */
+        .container {
+          font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+          padding: 20px; /* Pastikan padding cukup untuk mencegah pemotongan */
+          border-radius: 10px; /* Sudut membulat */
+          background-color: #212121;
+          color: #FFFFFF;
+          width: 100%;
+          height: 100%;
+          display: flex;
+          flex-direction: column;
+          gap: 20px;
+          border: 2px solid #444;  /* Border untuk kontainer */
+          box-sizing: border-box; /* Mengatur box-sizing untuk mencegah pemotongan */
+        }
+        .title {
+          font-size: 24px;
+          font-weight: bold;
+          text-align: center;
+          margin-bottom: 20px;
+        }
+        .movie-item {
+          display: flex;
+          flex-direction: column;
+          gap: 5px;
+          border-bottom: 1px solid #444;
+          padding-bottom: 10px;
+        }
+        .movie-title {
+          font-size: 18px;
+          font-weight: bold;
+          color: #FFFFFF;
+        }
+        .movie-year {
+          font-size: 14px;
+          font-style: italic;
+          color: #AAAAAA;
+        }
+        .watched-at {
+          font-size: 14px;
+          color: #888888;
+          margin-top: 5px;  /* Tambahkan margin untuk spasi yang lebih baik */
+          white-space: nowrap; /* Mencegah pemisahan baris */
+        }
+      </style>
+      <div class="container">
+        <div class="title">Recently Watched Movies</div>
+
+        <div class="movie-item">
+          <span class="movie-title">South Bound (2013)</span>
+          <span class="watched-at">Watched on: 2024/12/17 at 06:10 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">F9 (2021)</span>
+          <span class="watched-at">Watched on: 2024/11/09 at 17:43 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">The Fate of the Furious (2017)</span>
+          <span class="watched-at">Watched on: 2024/11/02 at 08:13 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">Apocalypse Z: The Beginning of the End (2024)</span>
+          <span class="watched-at">Watched on: 2024/11/02 at 06:17 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">Furious 7 (2015)</span>
+          <span class="watched-at">Watched on: 2024/11/01 at 12:38 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">Fast and Furious 6 (2013)</span>
+          <span class="watched-at">Watched on: 2024/10/31 at 10:58 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">2 Fast 2 Furious (2003)</span>
+          <span class="watched-at">Watched on: 2024/10/31 at 07:11 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">Bob Marley: One Love (2024)</span>
+          <span class="watched-at">Watched on: 2024/10/31 at 04:25 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">Fast Five (2011)</span>
+          <span class="watched-at">Watched on: 2024/10/30 at 15:41 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">Fast and Furious (2009)</span>
+          <span class="watched-at">Watched on: 2024/10/30 at 07:36 UTC</span>
+        </div>
+    
+      </div>
+    </div>
+  </foreignObject>
+</svg>
