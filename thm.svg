@@ -54,6 +54,21 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">The War with Grandpa (2020)</span>
+          <span class="watched-at">Watched on: 2024/12/31 at 20:23 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">John Wick: Chapter 4 (2023)</span>
+          <span class="watched-at">Watched on: 2024/12/31 at 19:23 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">Kang Mak (from Pee Mak) (2024)</span>
+          <span class="watched-at">Watched on: 2024/12/31 at 15:25 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">South Bound (2013)</span>
           <span class="watched-at">Watched on: 2024/12/17 at 06:10 UTC</span>
         </div>
@@ -86,21 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">2 Fast 2 Furious (2003)</span>
           <span class="watched-at">Watched on: 2024/10/31 at 07:11 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">Bob Marley: One Love (2024)</span>
-          <span class="watched-at">Watched on: 2024/10/31 at 04:25 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">Fast Five (2011)</span>
-          <span class="watched-at">Watched on: 2024/10/30 at 15:41 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">Fast and Furious (2009)</span>
-          <span class="watched-at">Watched on: 2024/10/30 at 07:36 UTC</span>
         </div>
     
       </div>
