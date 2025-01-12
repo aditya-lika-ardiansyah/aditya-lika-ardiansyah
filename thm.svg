@@ -54,6 +54,16 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">Keluar Main 1994 (2024)</span>
+          <span class="watched-at">Watched on: 2025/01/11 at 15:30 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">Five Friends (2024)</span>
+          <span class="watched-at">Watched on: 2025/01/11 at 08:55 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">The War with Grandpa (2020)</span>
           <span class="watched-at">Watched on: 2024/12/31 at 20:23 UTC</span>
         </div>
@@ -91,16 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">Furious 7 (2015)</span>
           <span class="watched-at">Watched on: 2024/11/01 at 12:38 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">Fast and Furious 6 (2013)</span>
-          <span class="watched-at">Watched on: 2024/10/31 at 10:58 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">2 Fast 2 Furious (2003)</span>
-          <span class="watched-at">Watched on: 2024/10/31 at 07:11 UTC</span>
         </div>
     
       </div>
