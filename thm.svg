@@ -54,6 +54,11 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">Father's Haunted House (2024)</span>
+          <span class="watched-at">Watched on: 2025/01/12 at 07:16 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">Keluar Main 1994 (2024)</span>
           <span class="watched-at">Watched on: 2025/01/11 at 15:30 UTC</span>
         </div>
@@ -96,11 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">Apocalypse Z: The Beginning of the End (2024)</span>
           <span class="watched-at">Watched on: 2024/11/02 at 06:17 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">Furious 7 (2015)</span>
-          <span class="watched-at">Watched on: 2024/11/01 at 12:38 UTC</span>
         </div>
     
       </div>
