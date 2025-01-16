@@ -54,6 +54,11 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">Scoob! (2020)</span>
+          <span class="watched-at">Watched on: 2025/01/15 at 13:45 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">Scooby-Doo! WrestleMania Mystery (2014)</span>
           <span class="watched-at">Watched on: 2025/01/14 at 13:08 UTC</span>
         </div>
@@ -96,11 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">F9 (2021)</span>
           <span class="watched-at">Watched on: 2024/11/09 at 17:43 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">The Fate of the Furious (2017)</span>
-          <span class="watched-at">Watched on: 2024/11/02 at 08:13 UTC</span>
         </div>
     
       </div>
