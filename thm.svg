@@ -54,6 +54,11 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">Kromoleo: The Haunting (2024)</span>
+          <span class="watched-at">Watched on: 2025/01/19 at 11:33 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">Tulang Belulang Tulang (2024)</span>
           <span class="watched-at">Watched on: 2025/01/19 at 03:36 UTC</span>
         </div>
@@ -96,11 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">The War with Grandpa (2020)</span>
           <span class="watched-at">Watched on: 2024/12/31 at 20:23 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">John Wick: Chapter 4 (2023)</span>
-          <span class="watched-at">Watched on: 2024/12/31 at 19:23 UTC</span>
         </div>
     
       </div>
