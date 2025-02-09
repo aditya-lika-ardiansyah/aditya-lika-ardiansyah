@@ -54,6 +54,16 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">Home Sweet Loan (2024)</span>
+          <span class="watched-at">Watched on: 2025/02/08 at 14:51 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">Sumala (2024)</span>
+          <span class="watched-at">Watched on: 2025/02/08 at 13:03 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">The Killer's Game (2024)</span>
           <span class="watched-at">Watched on: 2025/02/04 at 08:20 UTC</span>
         </div>
@@ -91,16 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">Scoob! (2020)</span>
           <span class="watched-at">Watched on: 2025/01/15 at 13:45 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">Scooby-Doo! WrestleMania Mystery (2014)</span>
-          <span class="watched-at">Watched on: 2025/01/14 at 13:08 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">Father's Haunted House (2024)</span>
-          <span class="watched-at">Watched on: 2025/01/12 at 07:16 UTC</span>
         </div>
     
       </div>
