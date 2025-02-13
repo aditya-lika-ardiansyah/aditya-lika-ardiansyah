@@ -54,6 +54,11 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">Bayi Ajaib (2023)</span>
+          <span class="watched-at">Watched on: 2025/02/12 at 11:05 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">Dosen Ghaib: It's Nighttime or You Already Know (2024)</span>
           <span class="watched-at">Watched on: 2025/02/11 at 09:46 UTC</span>
         </div>
@@ -96,11 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">Tulang Belulang Tulang (2024)</span>
           <span class="watched-at">Watched on: 2025/01/19 at 03:36 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">The Invention of Lying (2009)</span>
-          <span class="watched-at">Watched on: 2025/01/18 at 15:59 UTC</span>
         </div>
     
       </div>
