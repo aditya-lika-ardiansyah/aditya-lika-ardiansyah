@@ -54,6 +54,16 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">Jurnal Risa by Risa Saraswati (2024)</span>
+          <span class="watched-at">Watched on: 2025/02/16 at 03:31 UTC</span>
+        </div>
+    
+        <div class="movie-item">
+          <span class="movie-title">Dancing Village: The Curse Begins (2024)</span>
+          <span class="watched-at">Watched on: 2025/02/15 at 10:50 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">Kemah Terlarang: Kesurupan Massal (2024)</span>
           <span class="watched-at">Watched on: 2025/02/14 at 09:37 UTC</span>
         </div>
@@ -91,16 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">5 cm (2012)</span>
           <span class="watched-at">Watched on: 2025/01/28 at 20:27 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">Ivanna (2022)</span>
-          <span class="watched-at">Watched on: 2025/01/28 at 14:16 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">Kromoleo: The Haunting (2024)</span>
-          <span class="watched-at">Watched on: 2025/01/19 at 11:33 UTC</span>
         </div>
     
       </div>
