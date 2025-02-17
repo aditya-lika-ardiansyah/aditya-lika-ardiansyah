@@ -54,6 +54,11 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">Maghrib Time (2023)</span>
+          <span class="watched-at">Watched on: 2025/02/16 at 12:19 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">Jurnal Risa by Risa Saraswati (2024)</span>
           <span class="watched-at">Watched on: 2025/02/16 at 03:31 UTC</span>
         </div>
@@ -96,11 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">The Killer's Game (2024)</span>
           <span class="watched-at">Watched on: 2025/02/04 at 08:20 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">5 cm (2012)</span>
-          <span class="watched-at">Watched on: 2025/01/28 at 20:27 UTC</span>
         </div>
     
       </div>
