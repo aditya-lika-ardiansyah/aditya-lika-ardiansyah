@@ -54,6 +54,11 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">Perjanjian Gaib (2023)</span>
+          <span class="watched-at">Watched on: 2025/02/17 at 11:01 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">Maghrib Time (2023)</span>
           <span class="watched-at">Watched on: 2025/02/16 at 12:19 UTC</span>
         </div>
@@ -96,11 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">Sumala (2024)</span>
           <span class="watched-at">Watched on: 2025/02/08 at 13:03 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">The Killer's Game (2024)</span>
-          <span class="watched-at">Watched on: 2025/02/04 at 08:20 UTC</span>
         </div>
     
       </div>
