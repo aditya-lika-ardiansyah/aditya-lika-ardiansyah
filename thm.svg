@@ -54,6 +54,11 @@
         <div class="title">Recently Watched Movies</div>
 
         <div class="movie-item">
+          <span class="movie-title">Bogotá: City of the Lost (2024)</span>
+          <span class="watched-at">Watched on: 2025/02/18 at 10:01 UTC</span>
+        </div>
+    
+        <div class="movie-item">
           <span class="movie-title">Perjanjian Gaib (2023)</span>
           <span class="watched-at">Watched on: 2025/02/17 at 11:01 UTC</span>
         </div>
@@ -96,11 +101,6 @@
         <div class="movie-item">
           <span class="movie-title">Home Sweet Loan (2024)</span>
           <span class="watched-at">Watched on: 2025/02/08 at 14:51 UTC</span>
-        </div>
-    
-        <div class="movie-item">
-          <span class="movie-title">Sumala (2024)</span>
-          <span class="watched-at">Watched on: 2025/02/08 at 13:03 UTC</span>
         </div>
     
       </div>
